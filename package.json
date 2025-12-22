@@ -1,0 +1,10 @@
+{
+  "name": "AI-Master-Desk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@nrwl/react": "^19.8.4",
+    "nx": "22.3.3"
+  }
+}
